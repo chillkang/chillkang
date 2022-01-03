@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Seulkee</h1>
 <h3 align="center">A London based Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Javascript, React, and Node.js.**
+- 💻 I’m currently learning **Javascript, React, and Node.js.**
 
-- 💬 Ask me about **Ruby on Rails, grid training, and art 🖼**
+- ❓ Ask me about **Ruby on Rails 👩🏻‍💻, grid training 🏋🏻‍♀️, and art 🖼**
 
-- 📫 You can reach out to me at **seulkeekang@gmail.com**
+- ✉️ You can reach out to me at **seulkeekang@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
